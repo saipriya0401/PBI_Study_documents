@@ -1,3 +1,7 @@
+Important areas to focus on for interviews
+
+
+
 DAX is more important
 column and measure important as in when to use what?
 
