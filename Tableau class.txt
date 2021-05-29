@@ -1,0 +1,10 @@
+axis will take dimension fields( text formt)
+ numeric values are measure fields
+
+
+values contain measure fields
+
+legend will color the bar with the category
+
+
+legend will become sub caterogy

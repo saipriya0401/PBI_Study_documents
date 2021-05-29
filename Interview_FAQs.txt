@@ -1,0 +1,38 @@
+DAX is more important
+column and measure important as in when to use what?
+
+
+Power Pivot
+Filter functions'
+
+Time intelligent funcitions
+
+String functions
+many to many relations-create a bridge table ( decrease the performance)
+merge the key columns and create in one table
+
+Power view
+
+slicers
+filters
+synslicers
+bookmarks
+visuals
+difference between text table and matrix
+
+
+Power query
+Number
+date
+M code
+
+Power Bi service
+
+Admin activities
+data gateways
+schedules
+manual and automated scheduling
+workspace
+pipelines
+subscriotions
+alerts
